@@ -1,5 +1,4 @@
 ### 👋 Hello there! My name is Hugo Rebelo! 😄
-</br>
 
 ### 🌱 **About me**
 Since I was at a young age, I was always fascinated and curious about how computers work and how we could
